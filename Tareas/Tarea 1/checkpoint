@@ -1,0 +1,2 @@
+model_checkpoint_path: "Modelo_Punto3_TPU.ckpt"
+all_model_checkpoint_paths: "Modelo_Punto3_TPU.ckpt"
